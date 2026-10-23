@@ -10,8 +10,6 @@
 | Remote Address (IP and port) | ... |
 | Protocol in the address bar (http or https) | ... |
  
-## Why is this address http and not https?
-... (two sentences)
 ## Live site observations (Lab 4, Task 7)
  
 1. Compare localhost (Task 1) with the live site: protocol, server header, and
@@ -21,3 +19,4 @@
 3. Why was the Saved orders table empty on the live site, even though you saved
    orders on localhost? (Hint: storage belongs to an origin.)
 4. Which HTTP status code did the missing page return, and who sent it?
+
