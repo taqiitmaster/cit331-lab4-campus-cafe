@@ -12,4 +12,8 @@ Built for CIT331 Web Technologies, Lab 4.
 HTML5, CSS3 and a little JavaScript. No frameworks.
  
 ## Author
-Your Name, Roll No. XXXXXXX
+Muhammad Taqi, Roll No. 0007
+
+**Live site:** https://cit331-lab4-campus-cafe-ogwy.vercel.app/
+**Repository:** https://github.com/taqiitmaster/cit331-lab4-campus-cafe/
+
